@@ -3,7 +3,7 @@ import math as m
 document = []
 classes = []
 
-#Calculating for the probability of 
+#Calculating for the probability of a given class 
 def calculateLogPriors(classes,c):
     count = 0
     for i in classes:
@@ -13,3 +13,4 @@ def calculateLogPriors(classes,c):
             pass
     priorProb = count/len(classes)
     return (m.log10(priorProb))
+
