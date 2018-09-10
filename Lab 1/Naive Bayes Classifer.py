@@ -9,5 +9,7 @@ def calculateLogPriors(classes,c):
     for i in classes:
         if i == c:
             count+= 1
-priorProb = count/len(classes)
-return (m.log10(proirProb))
+        else:
+            pass
+    priorProb = count/len(classes)
+    return (m.log10(priorProb))
