@@ -1,0 +1,14 @@
+I love you.	1
+I hate you.	0
+This sucks.	0
+This is great.	1
+The food is cold.	0
+The movie has no plot and the actors are bad.	0
+I can't get enough of this product.	1
+The staff are professional.	1
+That girl is so rude.	0
+The bag is beautiful.	1
+Your hair is nice.	1
+I DON'T LIKE YOUR FACE!!!!	0
+You're gorgeous	1
+the homework: too difficult	0
