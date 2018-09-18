@@ -1,4 +1,4 @@
-#Naive Bayes Classifier
+# Naive Bayes Classifier
 
 * Data to train this classifier is contained in the _sentiment labelled sentences_ folder.
 
